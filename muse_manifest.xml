@@ -1,0 +1,94 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="NotesandVotes.com" resolutions="1x,2x" timestamp="1469026998243">
+  <folder name="css">
+    <file name="site_global.css" crc="421704349"/>
+    <file name="index.css" crc="363835287" ref="index"/>
+    <file name="nomq_index.css" crc="4203401037" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="328327953" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3802586038" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="439107114" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="244532976" ref="index"/>
+    <file name="nav_logo-2.png" crc="4215972161" seo="true" ref="index"/>
+    <file name="nav_logo-2_2x.png" crc="235251105" seo="true" ref="index"/>
+    <file name="userfeed_icon.svg" crc="487213175" ref="index"/>
+    <file name="userfeed_icon_poster_u13319.png" crc="4232091728" ref="index"/>
+    <file name="widgets_icon.svg" crc="414983679" ref="index"/>
+    <file name="widgets_icon_poster_u13343.png" crc="3953600593" ref="index"/>
+    <file name="voting_icon.svg" crc="3823115088" ref="index"/>
+    <file name="voting_icon_poster_u13407.png" crc="242020029" ref="index"/>
+    <file name="content_icon.svg" crc="3908971209" ref="index"/>
+    <file name="content_icon_poster_u13351.png" crc="4107526321" ref="index"/>
+    <file name="reco_icons.svg" crc="310297861" ref="index"/>
+    <file name="reco_icons_poster_u13335.png" crc="3829643256" ref="index"/>
+    <file name="admin_icon.svg" crc="70990277" ref="index"/>
+    <file name="admin_icon_poster_u13367.png" crc="4136307416" ref="index"/>
+    <file name="header_image_4.png" crc="93913871" ref="index"/>
+    <file name="case_1.jpg" crc="4134408392" ref="index"/>
+    <file name="case_1_2x.jpg" crc="4127715063" ref="index"/>
+    <file name="api-u729-fr.jpg" crc="4117282985" ref="index"/>
+    <file name="api-u729-fr_2x.jpg" crc="3936604651" ref="index"/>
+    <file name="search_icon.svg" crc="109522000" ref="index"/>
+    <file name="search_icon_poster_u13415.png" crc="300361113" ref="index"/>
+    <file name="responses_icon.svg" crc="394979094" ref="index"/>
+    <file name="responses_icon_poster_u13439.png" crc="28466582" ref="index"/>
+    <file name="linking_icon.svg" crc="528153696" ref="index"/>
+    <file name="linking_icon_poster_u13423.png" crc="55173534" ref="index"/>
+    <file name="custom_icon.svg" crc="255757633" ref="index"/>
+    <file name="custom_icon_poster_u13447.png" crc="4044649095" ref="index"/>
+    <file name="blacklist_icon.svg" crc="207881035" ref="index"/>
+    <file name="blacklist_icon_poster_u13431.png" crc="3785933646" ref="index"/>
+    <file name="css_icon.svg" crc="3789276472" ref="index"/>
+    <file name="css_icon_poster_u13455.png" crc="4256532083" ref="index"/>
+    <file name="case_2.jpg" crc="278769404" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="usecase2.jpg" crc="3789062844" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="feature.png" crc="364620861" ref="index"/>
+    <file name="nav_logo-footer270x32.png" crc="4149886558" seo="true" ref="index"/>
+    <file name="nav_logo-footer270x32_2x.png" crc="180951238" seo="true" ref="index"/>
+    <file name="arrow.png" crc="3760597299" seo="true" ref="index"/>
+    <file name="arrow_2x.png" crc="3866534634" seo="true" ref="index"/>
+    <file name="api.jpg" crc="4178130713" ref="index"/>
+    <file name="nav_logo-footer.png" crc="3770543649" seo="true" ref="index"/>
+    <file name="nav_logo-footer_2x.png" crc="438984455" seo="true" ref="index"/>
+    <file name="menu.svg" crc="3882274981" ref="index"/>
+    <file name="menu_poster_u10159.png" crc="3990882090" ref="index"/>
+    <file name="close.svg" crc="4066155431" ref="index"/>
+    <file name="close_poster_u10151.png" crc="324141347" ref="index"/>
+    <file name="arrow_2.svg" crc="417309939" seo="true" ref="index"/>
+    <file name="arrow_2_poster_.png" crc="243202026" ref="index"/>
+    <file name="nav_logo-footer249x29.png" crc="3846052745" seo="true" ref="index"/>
+    <file name="nav_logo-footer249x29_2x.png" crc="429216440" seo="true" ref="index"/>
+    <file name="nav_logo-2249x29.png" crc="395573314" seo="true" ref="index"/>
+    <file name="nav_logo-2249x29_2x.png" crc="4117318162" seo="true" ref="index"/>
+    <file name="nav_logo-footer190x22.png" crc="204461011" seo="true" ref="index"/>
+    <file name="nav_logo-footer190x22_2x.png" crc="155229009" seo="true" ref="index"/>
+    <file name="nav_logo-2223x26.png" crc="4096548079" seo="true" ref="index"/>
+    <file name="nav_logo-2223x26_2x.png" crc="530279383" seo="true" ref="index"/>
+    <file name="nav_logo-footer189x22.png" crc="101907660" seo="true" ref="index"/>
+    <file name="nav_logo-footer189x22_2x.png" crc="3888157056" seo="true" ref="index"/>
+    <file name="case_2606x363.jpg" crc="529083289" seo="true" ref="index"/>
+    <file name="usecase2545x363.jpg" crc="170445171" seo="true" ref="index"/>
+    <file name="case_2-crop-u5379.jpg" crc="4192418254" ref="index"/>
+    <file name="usecase2-crop-u6243.jpg" crc="3891401258" ref="index"/>
+    <file name="case_2652x391.jpg" crc="78937504" seo="true" ref="index"/>
+    <file name="usecase2629x420.jpg" crc="493416077" seo="true" ref="index"/>
+    <file name="case_2466x279.jpg" crc="383145383" seo="true" ref="index"/>
+    <file name="usecase2419x279.jpg" crc="163786873" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="99595258" seo="true" mt="1469026937124" redirect="true"/>
+</manifest>
